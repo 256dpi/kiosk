@@ -14,7 +14,6 @@
 		52163E2A17566364008D3B63 /* KAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 52163E2917566364008D3B63 /* KAppDelegate.m */; };
 		52163E2D17566364008D3B63 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52163E2B17566364008D3B63 /* MainMenu.xib */; };
 		52163E34175663B7008D3B63 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52163E33175663B7008D3B63 /* WebKit.framework */; };
-		52163E361756CB0C008D3B63 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 52163E351756CB0C008D3B63 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -164,7 +163,6 @@
 				52163E2117566364008D3B63 /* InfoPlist.strings in Resources */,
 				52163E2717566364008D3B63 /* Credits.rtf in Resources */,
 				52163E2D17566364008D3B63 /* MainMenu.xib in Resources */,
-				52163E361756CB0C008D3B63 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
