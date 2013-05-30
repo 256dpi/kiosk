@@ -12,7 +12,7 @@
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
-  NSString* filePath = @"~/.kiosk";
+  NSString* filePath = @"~/kiosk.config";
   filePath = [filePath stringByExpandingTildeInPath];
   
   NSString* fileContents =

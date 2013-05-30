@@ -8,7 +8,7 @@ Download the executable or compile by yourself.
 
 ## Configuration
 
-Create a configuration file ~/.kiosk with the URL as its content:
+Create a configuration file ~/kiosk.config with the URL as its content:
 
     http://www.example.com
 
